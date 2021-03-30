@@ -1,6 +1,43 @@
 # Question-Level-Difficulty
-Question Level Difficulty, estimation for Drama QA <br>
-taurus -> leo <br>
-backbone cnn = backbone - avgpool - reshape - lstm - chid <br>
-backbone cnn = backbone - mean - lstm - chid -pooling(tanh) -> u* v* <br>
-전문 모델 2개로 분할 & ls -> gr
+
+## Data Folder Structure
+```
+Question-Level-Difficulty/
+  main.py
+  
+  models/
+    utils.py
+    setting.py
+    
+    QLD/
+      qld_only_text.py
+      qld.py
+      function.py
+      
+  data/
+    data_loader.py
+    DramaQA_v2.1/
+      AnotherMissOh/
+        parser.py
+        train.tsv
+        test.tsv
+        val.tsv
+        AnotherMissOhQA_train_set.json
+        AnotherMissOhQA_val_set.json
+        AnotherMissOhQA_test_set.json
+        AnotherMissOh_script.json
+        AnotherMissOh_images/
+          $IMAGE_FOLDERS
+```
+<br>
+
+```
+Time series images -> CNN backbone (ResNet50) -> BI-LSTM -> pooling => u
+Question + utterance - > Roberta -> CLS pooling => v 
+u*, v* = AttnF(u, v)
+(u, v, u*, v*) -> classifier -> loss
+```
+@ LSTM <br>
+- memory: 0.0, logic: 0.0 <br>
+@ GRU <br>
+- memory: 0.0, logic: 0.0 <br>
