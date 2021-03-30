@@ -32,7 +32,7 @@ Question-Level-Difficulty/
 ## Model Flow
 
 ```
-Time series images -> CNN backbone (ResNet50) -> BI-LSTM -> pooling => u
+Time series images -> CNN backbone (ResNet50) -> Bi-LSTM -> pooling => u
 Question + utterance - > Roberta -> CLS pooling => v 
 u*, v* = AttnF(u, v)
 (u, v, u*, v*) -> classifier -> loss
