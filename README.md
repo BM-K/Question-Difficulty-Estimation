@@ -30,7 +30,7 @@ Question-Level-Difficulty/
           $IMAGE_FOLDERS
 ```
 <br>
-
+## Model flow
 ```
 Time series images -> CNN backbone (ResNet50) -> BI-LSTM -> pooling => u
 Question + utterance - > Roberta -> CLS pooling => v 
@@ -38,6 +38,6 @@ u*, v* = AttnF(u, v)
 (u, v, u*, v*) -> classifier -> loss
 ```
 @ LSTM <br>
-- memory: 0.0, logic: 0.0 <br>
+memory: 0.0, logic: 0.0 <br>
 @ GRU <br>
-- memory: 0.0, logic: 0.0 <br>
+memory: 0.0, logic: 0.0 <br>
