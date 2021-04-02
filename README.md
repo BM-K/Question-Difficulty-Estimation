@@ -39,7 +39,7 @@ u*, v* = AttnF(u, v)
 ```
 
 @ LSTM <br>
-memory: 0.0, logic: 0.0 <br>
+memory: 97.7, logic: 0.0 <br>
 @ GRU <br>
 memory: 0.0, logic: 0.0 <br>
 @ Base Roberta <br>
