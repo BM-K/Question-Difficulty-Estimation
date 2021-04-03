@@ -38,9 +38,7 @@ u*, v* = AttnF(u, v)
 (u, v, u*, v*) -> classifier -> loss
 ```
 
-@ LSTM <br>
-memory: 97.7, logic: 0.0 <br>
-@ GRU <br>
-memory: 0.0, logic: 0.0 <br>
 @ Base Roberta <br>
 memory: 90.9 , logic: 77.2 <br>
+@ Proposed Model <br>
+memory: 97.7, logic: 85.5 <br>
