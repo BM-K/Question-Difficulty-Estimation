@@ -41,6 +41,6 @@ u*, v* = AttnF(u, v)
 @ Base Roberta <br>
 memory: 90.9 , logic: 77.2 <br>
 @ Proposed Model (u, v)<br>
-memory: 0.0, logic: 0.0 <br>
+memory: 97.6, logic: 0.0 <br>
 @ Proposed Model (u, v, u*, v*) <br>
 memory: 97.7, logic: 85.5 <br>
