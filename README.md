@@ -43,4 +43,4 @@ memory: 90.9 , 81.36 logic: 77.2 <br>
 @ Proposed Model (u, v)<br>
 memory: 97.6, logic: 0.0 <br>
 @ Proposed Model (u, v, u*, v*) <br>
-memory: 97.7, logic: 85.5 <br>
+memory: 97.7, 94.50 logic: 85.5 <br>
