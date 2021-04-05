@@ -37,7 +37,7 @@ Question + utterance - > Roberta -> CLS pooling => v
 u*, v* = AttnF(u, v)
 (u, v, u*, v*) -> classifier -> loss
 ```
-ACC, F1 score
+ACC, F1 score <br>
 @ Base Roberta <br>
 memory: 90.9 , 81.36 logic: 77.2, 77.2 <br>
 @ Proposed Model (u, v)<br>
