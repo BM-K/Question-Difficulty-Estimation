@@ -39,13 +39,8 @@ u*, v* = AttnF(u, v)
 ```
 ACC, F1 score <br>
 @ Base Roberta <br>
-memory: 90.9 , 81.36 | logic: 77.2, 77.2 <br>
-90.30, 78.67 | 79.79, 78.90 <br><br>
+memory: 90.30, 78.67 | logic: 79.79, 78.90 <br>
 @ Proposed Model (u, v)<br>
-memory: 97.6, 94.3 | logic: 84.3, 84.3 <br>
-97.40, 94.44 | 85.19, 84.18 <br><br>
-
-
+memory: 97.40, 94.44 | logic: 84.5, 84.18 <br>
 @ Proposed Model (u, v, u*, v*) <br>
-memory: 97.7, 94.50 | logic: 85.5, 85.5 <br>
-97.9, 95.1 | 85.17, 85.22
+memory: 97.9, 95.1 | logic: 85.17, 85.22 <br>
