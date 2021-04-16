@@ -29,6 +29,9 @@ Question-Level-Difficulty/
         AnotherMissOh_images/
           $IMAGE_FOLDERS
 ```
+## Model
+<img src='https://user-images.githubusercontent.com/55969260/114975390-27e20c80-9ebf-11eb-932c-b05ee0b2a1ce.png'>
+
 ## Model Flow
 
 ```
