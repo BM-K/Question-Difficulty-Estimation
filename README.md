@@ -50,8 +50,8 @@ memory: 97.9, 95.1 | logic: 85.17, 85.22 <br>
 
 TVQA ACC, F1 score <br>
 @ Base Roberta <br>
-memory: | logic: <br>
+memory: 63 | <br>
 @ Proposed Model (u, v)<br>
-memory: | logic: <br>
+memory: | <br>
 @ Proposed Model (u, v, u*, v*) <br>
-memory: | logic: <br>
+memory: | <br>
