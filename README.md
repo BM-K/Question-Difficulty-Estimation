@@ -54,4 +54,4 @@ memory: 67.74, 69.45 | <br>
 @ Proposed Model (u, v)<br>
 memory: | <br>
 @ Proposed Model (u, v, u*, v*) <br>
-memory: | <br>
+memory: 68.69, 71.30| <br>
