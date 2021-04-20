@@ -52,6 +52,6 @@ TVQA ACC, F1 score <br>
 @ Base Roberta <br>
 memory: 67.74, 69.45 | <br>
 @ Proposed Model (u, v)<br>
-memory: | <br>
+memory: 69.48, 71.06| <br>
 @ Proposed Model (u, v, u*, v*) <br>
 memory: 68.69, 71.30| <br>
