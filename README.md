@@ -56,3 +56,4 @@ memory: 69.48, 71.06| <br>
 @ Proposed Model (u, v, u*, v*) <br>
 memory: 68.69, 71.30| -> no sqrt: 69.31, 71.10 <br> <br>
 
+Mutual Association Transformer
