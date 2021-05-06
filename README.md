@@ -40,19 +40,6 @@ u*, v* = AttnF(u, v)
 (u, v, u*, v*) -> classifier -> loss
 ```
 ACC, F1 score <br>
-@ Base Roberta <br>
-memory: 90.30, 78.67 | logic: 79.79, 78.90 <br>
-@ Proposed Model (u, v)<br>
-memory: 97.40, 94.44 | logic: 84.5, 84.18 | h5 translation, memory: 97.54, 94 | logic: <br>
-@ Proposed Model (u, v, u*, v*) <br>
-memory: 97.9, 95.1 | logic: 85.17, 85.22 | h5 translation, memory: 97.80, 95.52 | logic: 84.49, 81.66<br>
 
-TVQA ACC, F1 score <br>
-@ Base Roberta <br>
-memory: 67.74, 69.45 | <br>
-@ Proposed Model (u, v)<br>
-memory: 69.48, 71.06| <br>
-@ Proposed Model (u, v, u*, v*) <br>
-memory: 68.69, 71.30| -> no sqrt: 69.31, 71.10 <br> <br>
 
 Mutual Association Transformer
