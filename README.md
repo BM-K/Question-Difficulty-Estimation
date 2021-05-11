@@ -31,14 +31,6 @@ Question-Level-Difficulty/
 ```
 ## Model
 
-## Model Flow
-
-```
-Time series images -> CNN backbone (ResNet50) -> Bi-LSTM -> pooling => u
-Question + utterance - > Roberta -> CLS pooling => v 
-u*, v* = AttnF(u, v)
-(u, v, u*, v*) -> classifier -> loss
-```
 ACC, F1 score <br>
 
 
