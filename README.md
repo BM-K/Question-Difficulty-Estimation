@@ -30,8 +30,3 @@ Question-Level-Difficulty/
           $IMAGE_FOLDERS
 ```
 ## Model
-
-ACC, F1 score <br>
-
-
-Mutual Association Transformer
