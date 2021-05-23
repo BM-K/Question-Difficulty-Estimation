@@ -11,7 +11,8 @@ Question-Level-Difficulty/
     
     QLD/
       qld_only_text.py
-      qld.py
+      qld_memory.py
+      qld_logic.py
       function.py
       
   data/
@@ -29,3 +30,4 @@ Question-Level-Difficulty/
         AnotherMissOh_images/
           $IMAGE_FOLDERS
 ```
+<img src = 'https://user-images.githubusercontent.com/55969260/119249239-eb968000-bbd1-11eb-8495-3c722cbb8b1b.png'>
