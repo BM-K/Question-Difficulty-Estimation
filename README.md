@@ -30,4 +30,3 @@ Question-Level-Difficulty/
         AnotherMissOh_images/
           $IMAGE_FOLDERS
 ```
-<img src = 'https://user-images.githubusercontent.com/55969260/119249239-eb968000-bbd1-11eb-8495-3c722cbb8b1b.png'>
