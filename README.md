@@ -30,3 +30,14 @@ Question-Level-Difficulty/
         AnotherMissOh_images/
           $IMAGE_FOLDERS
 ```
+
+## Run
+  ```
+  python main.py
+  
+  How did Haeyoung1 feel such surreal emotions?:
+    Memory Level 3 | Logic Level 3 
+  ```
+
+## Results
+<img src='https://user-images.githubusercontent.com/55969260/120881189-7469de80-c60a-11eb-91fb-0f1b92ce317c.png'>
