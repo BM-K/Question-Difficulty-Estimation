@@ -30,4 +30,3 @@ Question-Level-Difficulty/
         AnotherMissOh_images/
           $IMAGE_FOLDERS
 ```
-code refactoring
