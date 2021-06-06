@@ -1,6 +1,9 @@
 # Question Difficulty Estimation
-DramaQA - Memory and Logic complexity <br>
-- https://arxiv.org/abs/2005.03356
+
+- DramaQA - Memory and Logic complexity <br>
+  - https://arxiv.org/abs/2005.03356 <br>
+- TVQA - Custom question difficulty <br>
+  - https://arxiv.org/abs/1809.01696
 
 ## Data Folder Structure
 ```
