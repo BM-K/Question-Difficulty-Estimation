@@ -563,12 +563,9 @@ def get_loader(args):
         exit()
 
     train_iter.load_data('train')
-    valid_iter.load_data('valid')  # 4385
+    valid_iter.load_data('valid')
     test_iter.load_data('test')
 
-    #if args.eval == 'True':
-    #    batch_size = 1
-    #else:
     batch_size = args.batch_size
 
     loader = {'train': DataLoader(dataset=train_iter,
