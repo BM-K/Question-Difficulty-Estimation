@@ -1,4 +1,6 @@
 # Question Difficulty Estimation
+DramaQA - Memory and Logic complexity <br>
+- https://arxiv.org/abs/2005.03356
 
 ## Data Folder Structure
 ```
