@@ -46,4 +46,3 @@ Question-Level-Difficulty/
   ```
 
 ## Results
-<img src='https://user-images.githubusercontent.com/55969260/120881189-7469de80-c60a-11eb-91fb-0f1b92ce317c.png'>
