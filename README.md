@@ -47,3 +47,6 @@ Question-Level-Difficulty/
 
 ## Results
 <img src='https://user-images.githubusercontent.com/55969260/121448461-a7c5b800-c9d2-11eb-9d8e-b56e4ea8bcbc.png'>
+
+## TODO
+Triplet Loss
