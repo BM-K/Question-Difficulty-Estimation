@@ -50,7 +50,7 @@ Question-Level-Difficulty/
 
 ## V3 Dataset
 - logic
-    - only text:
+    - only text: 97.34
     - text + image:
 - memory
     - only text:
