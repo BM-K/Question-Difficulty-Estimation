@@ -54,4 +54,4 @@ Question-Level-Difficulty/
     - text + image:
 - memory
     - only text: 99.64
-    - text + image: 99.86
+    - text + image: 99.88
