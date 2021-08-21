@@ -39,8 +39,6 @@ Question-Level-Difficulty/
 
 ## Run
   ```
-  python main.py
-  
   How did Haeyoung1 feel such surreal emotions?:
     Memory Level 3 | Logic Level 3 
   ```
