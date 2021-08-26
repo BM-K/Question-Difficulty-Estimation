@@ -45,7 +45,7 @@ Question-Level-Difficulty/
 
 ## Results
 logic: 85.59 -> 86.41 <br>
-memory: 97.90 -> <br>
+memory: 97.90 -> 98.30 <br>
 tvqa: <br>
 
 ## V3 Dataset
