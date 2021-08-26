@@ -44,7 +44,7 @@ Question-Level-Difficulty/
   ```
 
 ## Results
-logic: 85.59 -> <br>
+logic: 85.59 -> 86.41 <br>
 memory: 97.90 -> <br>
 tvqa: <br>
 
