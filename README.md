@@ -44,7 +44,7 @@ Question-Level-Difficulty/
   ```
 
 ## Results
-
+<img src="https://user-images.githubusercontent.com/55969260/131627349-f748ef00-3cb8-49bb-95ea-196b5da74486.png">
 
 ## V3 Dataset
 - logic
