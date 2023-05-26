@@ -286,7 +286,7 @@ class TransformerAttn(nn.Module):
 
     def forward(self, query, key, value, args):
 
-        scores = torch.matmul(query, key.transpose(-1, -2)) / np.sqrt(768)# TVQA는 sqrt뺀다
+        scores = torch.matmul(query, key.transpose(-1, -2)) / np.sqrt(768)
         attn = nn.Softmax(dim=-1)(scores)
         context = torch.matmul(attn, value)
 
